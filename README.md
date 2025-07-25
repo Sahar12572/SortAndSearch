@@ -25,13 +25,11 @@ Make sure you have Java installed on your system.
 2. Compile the Java file:
    ```bash
    javac SortAndSearch.java
-Run the program:
+3.Run the program:
 
-bash
-Copy
-Edit
+```bash
 java SortAndSearch
-
+bash
 ## 🌱 Why This Project?
 This project was created as part of a learning journey to better understand:
 
