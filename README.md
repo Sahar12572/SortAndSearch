@@ -1,40 +1,22 @@
-# 🔍 SortAndSearch Java Program
+# 🔍 Sort and Search Program (Java)
 
-Welcome to the **SortAndSearch** project — a simple but solid Java console application that demonstrates basic searching and sorting algorithms. This is perfect for beginner Java developers or students brushing up on algorithmic logic. 
+This is a simple Java program that demonstrates three classic algorithms:
 
-## 🚀 What It Does
-
-This Java program does the following:
-
-1. Performs a **Linear Search** for the number `9` in an unsorted array.
-2. Sorts the array using the **Insertion Sort** algorithm.
-3. Performs a **Binary Search** for the number `9` in the now sorted array.
-4. Outputs clear, step-by-step results in the console.
+- ✅ **Linear Search** (unsorted array)
+- ✅ **Insertion Sort**
+- ✅ **Binary Search** (sorted array)
 
 ## 📦 Features
 
-- ✅ Linear Search (for unsorted arrays)
-- ✅ Insertion Sort (sorts array in ascending order)
-- ✅ Binary Search (for sorted arrays)
-- ✅ Output includes clear console messages for better readability
+- Allows user input to specify the number they want to search for.
+- Searches for the number using linear search.
+- Sorts the array using insertion sort.
+- Then searches again using binary search on the sorted array.
 
-## 🧠 Algorithms Explained
+## 🛠 Technologies
 
-- **Linear Search**: Checks each element one by one until it finds the target or reaches the end.
-- **Insertion Sort**: Builds the sorted array one element at a time by comparing and inserting elements in their correct positions.
-- **Binary Search**: Efficiently searches in a sorted array by repeatedly dividing the search interval in half.
-
-## 💻 Sample Output
-```bash
-Linear Search for 9:
-Found 9 at index: 10
-
-Sorting the array using Insertion Sort...
-Sorted array: [-40, -3, -1, 1, 2, 4, 5, 7, 9, 16, 18, 27, 35, 100]
-
-Binary Search for 9:
-Found 9 at index: 8
-```
+- Java (Standard Edition)
+- CLI interaction using `Scanner`
 ## 📁 How to Run
 
 Make sure you have Java installed on your system.
