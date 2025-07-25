@@ -29,7 +29,7 @@ Make sure you have Java installed on your system.
 
 ```bash
 java SortAndSearch
-bash
+```
 ## 🌱 Why This Project?
 This project was created as part of a learning journey to better understand:
 
